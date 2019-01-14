@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Google Cloud Sync
+.tmp.drivedownload/
+*.driveupload
+
+# sqlite files
+*.sqlite3
+
+# CONF
+
+.vscode
